@@ -3,6 +3,23 @@ title: Home
 layout: home
 ---
 
+
+# MBARI Protocol Collection
+
+Protocols from the Biological Oceanography Lab at the Monterey Bay Aquarium Research Institute (MBARI) following the BeBOP format.
+
+
+# Metabarcoding
+
+## 18S V9
+
+### [18S PCR](protocol_18S_PCR.md)
+### [18S secondary amplification](protocol_18S_secondary_amplification.md)
+### [18S sequencing](protocol_18S_sequencing.md)
+
+
+
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
