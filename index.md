@@ -13,12 +13,14 @@ Protocols from the Biological Oceanography Lab at the Monterey Bay Aquarium Rese
 
 ## 18S V9
 
-- [18S *PCR*](protocol_18S_PCR.md)
-- [18S secondary amplification](protocol_18S_secondary_amplification.md)
-- [18S sequencing](protocol_18S_sequencing.md)
+- [18S PCR]
+- [18S secondary amplification]
+- [18S sequencing]
 
 
-
+- [18S PCR]: protocol_18S_PCR.md
+- [18S secondary amplification]: protocol_18S_secondary_amplification.md
+- [18S sequencing]: protocol_18S_sequencing.md
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
