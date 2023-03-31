@@ -1,3 +1,7 @@
+---
+layout: post
+title: 18S Secondary Amplification
+---
 # Protocol Template
 
 MIOP protocol template
