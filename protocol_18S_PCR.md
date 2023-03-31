@@ -1,3 +1,7 @@
+---
+layout: post
+title: MBARI 18S PCR
+---
 # MBARI 18S PCR
 
 MIOP protocol template
